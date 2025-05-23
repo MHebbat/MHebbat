@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MHebbat (Malik Hebbat)
 - 👀 I’m interested in Programming, Sports and Music
-- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data for good
 - 📫 How to reach me ? Check malikhebbat.me !
 
